@@ -12,7 +12,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * @version 版权 Copyright(c)2019 杭州恒朴电子科技有限公司
+ *
  * @ClassName: SqlParserUtil
  * @Descripton: SqlParserUtil sql解析的工具类
  * @author: liuhao
